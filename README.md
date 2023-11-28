@@ -1,5 +1,9 @@
 # MLOps for MLE
 
+기술 스택
+
+![](https://mlops-for-all.github.io/assets/images/open-stacks-2-32f97815a2c7d02a32f080a996712ca6.png)
+
 본 저장소는 [MLOps for MLE](https://mlops-for-mle.github.io/tutorial/) 의 실습 코드가 구현되어있는 저장소입니다.
 먼저 각 파트 문서를 통해 진행 방향을 확인하고 구현에 도전합니다.
 코드를 바로 실행하기보다는 직접 구현하면서 실제 구현체와의 차이를 확인하는 방식으로 진행하는 것을 권장합니다.
